@@ -1,0 +1,2 @@
+# FromDomBot
+host bot
